@@ -1,0 +1,5 @@
+#Server
+#this is the property config file
+port=5000
+mode=secure
+frequencyFalseResults=20

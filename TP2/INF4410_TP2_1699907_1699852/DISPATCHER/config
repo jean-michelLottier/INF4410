@@ -1,0 +1,8 @@
+#dispatcher
+#this is the property config file
+mode=secure
+inputPathFile=../textes/texte_1.txt
+outputPathFile=../results/result_1.txt
+hosts=server_1,server_2,server_3
+port=5000
+q=25000
